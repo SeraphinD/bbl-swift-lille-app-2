@@ -209,7 +209,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/python3 Scripts/design_token.py \"Sample App 2/Generated/design.swift\" \"2\"\n";
+			shellScript = "/usr/local/bin/python3 Scripts/design_token.py \"${PROJECT_NAME}/Generated/design.swift\" \"2\"\n";
 		};
 		C8BC4F2B8E77DB546EAE90EA /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
