@@ -1,0 +1,5 @@
+"close" = "FERMER";
+"title" = "CARTE";
+"description" = "Chaque article me rapporte 10 points. Gagnez des cadeaux à partir de 100 points.";
+"code_image" = "https://github.com/SeraphinD/bbl-swift-lille-files/raw/master/qrcode.png";
+"title_details" = "Je cumule des points avec ma carte de fidélité";
