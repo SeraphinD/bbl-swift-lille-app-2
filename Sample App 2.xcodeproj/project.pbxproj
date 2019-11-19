@@ -14,9 +14,6 @@
 		C62F4D7B23829ADE003EF4EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C62F4D7923829ADE003EF4EA /* LaunchScreen.storyboard */; };
 		C64637CF2383443B003CA3F7 /* design.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64637CE2383443B003CA3F7 /* design.swift */; };
 		C64637D3238346EE003CA3F7 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C64637D2238346EE003CA3F7 /* Localizable.strings */; };
-		C64637D72383494B003CA3F7 /* Sana Sans Alt bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C64637D42383494B003CA3F7 /* Sana Sans Alt bold.otf */; };
-		C64637D82383494B003CA3F7 /* Sana Sans Alt black.otf in Resources */ = {isa = PBXBuildFile; fileRef = C64637D52383494B003CA3F7 /* Sana Sans Alt black.otf */; };
-		C64637D92383494B003CA3F7 /* Sana Sans Alt regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C64637D62383494B003CA3F7 /* Sana Sans Alt regular.otf */; };
 		F5EF9BBA2A07014931A15EE1 /* Pods_Sample_App_2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E31B4C56EA663D516AF9069F /* Pods_Sample_App_2.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,9 +29,6 @@
 		C62F4D7C23829ADE003EF4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C64637CE2383443B003CA3F7 /* design.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = design.swift; sourceTree = "<group>"; };
 		C64637D2238346EE003CA3F7 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		C64637D42383494B003CA3F7 /* Sana Sans Alt bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sana Sans Alt bold.otf"; sourceTree = "<group>"; };
-		C64637D52383494B003CA3F7 /* Sana Sans Alt black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sana Sans Alt black.otf"; sourceTree = "<group>"; };
-		C64637D62383494B003CA3F7 /* Sana Sans Alt regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sana Sans Alt regular.otf"; sourceTree = "<group>"; };
 		E31B4C56EA663D516AF9069F /* Pods_Sample_App_2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sample_App_2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -112,9 +106,6 @@
 		C64637D02383443F003CA3F7 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				C64637D52383494B003CA3F7 /* Sana Sans Alt black.otf */,
-				C64637D42383494B003CA3F7 /* Sana Sans Alt bold.otf */,
-				C64637D62383494B003CA3F7 /* Sana Sans Alt regular.otf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -180,12 +171,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C64637D92383494B003CA3F7 /* Sana Sans Alt regular.otf in Resources */,
 				C62F4D7B23829ADE003EF4EA /* LaunchScreen.storyboard in Resources */,
-				C64637D72383494B003CA3F7 /* Sana Sans Alt bold.otf in Resources */,
 				C64637D3238346EE003CA3F7 /* Localizable.strings in Resources */,
 				C62F4D7823829ADE003EF4EA /* Assets.xcassets in Resources */,
-				C64637D82383494B003CA3F7 /* Sana Sans Alt black.otf in Resources */,
 				C62F4D7623829ADD003EF4EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

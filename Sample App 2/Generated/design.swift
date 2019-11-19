@@ -97,7 +97,7 @@ final class MyTextStyle: MyTextStyleProtocol {
 
     var h1_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -108,7 +108,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -119,7 +119,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h3_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 22, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -130,7 +130,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h4_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -141,7 +141,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h5_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 18, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -152,7 +152,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h6_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -163,7 +163,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -174,7 +174,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -185,7 +185,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -196,7 +196,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -207,7 +207,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c1_caption_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -218,7 +218,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c2_caption_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -229,7 +229,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var label_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -240,7 +240,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h1_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -251,7 +251,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -262,7 +262,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h3_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 22, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -273,7 +273,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h4_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -284,7 +284,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h5_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 18, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -295,7 +295,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h6_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -306,7 +306,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -317,7 +317,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -328,7 +328,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -339,7 +339,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -350,7 +350,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c1_caption_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -361,7 +361,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c2_caption_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -372,7 +372,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var label_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -383,7 +383,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h1_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -394,7 +394,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -405,7 +405,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h3_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 22, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -416,7 +416,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h4_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -427,7 +427,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h5_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 18, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -438,7 +438,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h6_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -449,7 +449,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -460,7 +460,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -471,7 +471,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -482,7 +482,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -493,7 +493,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c1_caption_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -504,7 +504,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var c2_caption_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -515,7 +515,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var label_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 12, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -526,7 +526,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -537,7 +537,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -548,7 +548,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -559,7 +559,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -570,7 +570,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_basic_500: TextStyle {
       return TextStyle(color: colors.basic(tint: 500),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -581,7 +581,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_basic_500: TextStyle {
       return TextStyle(color: colors.basic(tint: 500),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -592,7 +592,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_basic_500: TextStyle {
       return TextStyle(color: colors.basic(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -603,7 +603,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_basic_500: TextStyle {
       return TextStyle(color: colors.basic(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -614,7 +614,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_success_200: TextStyle {
       return TextStyle(color: colors.success(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -625,7 +625,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_success_200: TextStyle {
       return TextStyle(color: colors.success(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -636,7 +636,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_success_200: TextStyle {
       return TextStyle(color: colors.success(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -647,7 +647,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_success_200: TextStyle {
       return TextStyle(color: colors.success(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -658,7 +658,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_warning_200: TextStyle {
       return TextStyle(color: colors.warning(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -669,7 +669,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_warning_200: TextStyle {
       return TextStyle(color: colors.warning(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -680,7 +680,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_warning_200: TextStyle {
       return TextStyle(color: colors.warning(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -691,7 +691,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_warning_200: TextStyle {
       return TextStyle(color: colors.warning(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -702,7 +702,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_information_200: TextStyle {
       return TextStyle(color: colors.information(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -713,7 +713,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_information_200: TextStyle {
       return TextStyle(color: colors.information(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -724,7 +724,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_information_200: TextStyle {
       return TextStyle(color: colors.information(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -735,7 +735,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_information_200: TextStyle {
       return TextStyle(color: colors.information(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -746,7 +746,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s1_subtitle_danger_200: TextStyle {
       return TextStyle(color: colors.danger(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -757,7 +757,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var s2_subtitle_danger_200: TextStyle {
       return TextStyle(color: colors.danger(tint: 200),
-                       fontFamily: "SanaSansAlt-Bold", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 900, 
@@ -768,7 +768,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p1_paragraph_danger_200: TextStyle {
       return TextStyle(color: colors.danger(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 16, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -779,7 +779,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var p2_paragraph_danger_200: TextStyle {
       return TextStyle(color: colors.danger(tint: 200),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 14, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -790,7 +790,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_fixed_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -801,7 +801,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_medium_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 15, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -812,7 +812,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_tiny_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -823,7 +823,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_fixed_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -834,7 +834,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_medium_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 15, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -845,7 +845,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_tiny_basic_400: TextStyle {
       return TextStyle(color: colors.basic(tint: 400),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -856,7 +856,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_fixed_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -867,7 +867,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_medium_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 15, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -878,7 +878,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_tiny_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -889,7 +889,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_fixed_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 20, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -900,7 +900,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_medium_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 15, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -911,7 +911,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var button_tiny_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 13, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -922,7 +922,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var tabbar_basic_500: TextStyle {
       return TextStyle(color: colors.basic(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 10, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -933,7 +933,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var tabbar_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "SanaSansAlt-Regular", 
+                       fontFamily: "Helvetica-Light", 
                        fontSize: 10, 
                        shouldApplyWeight: false, 
                        fontWeight: 500, 
@@ -942,6 +942,6 @@ final class MyTextStyle: MyTextStyleProtocol {
                        textTransform: "none")
       }
       
-	  var fonts: [String] { return ["SanaSansAlt-Regular", "SanaSansAlt-Bold"] }
+	  var fonts: [String] { return ["Helvetica-Light", "Helvetica-Bold"] }
 
 }
