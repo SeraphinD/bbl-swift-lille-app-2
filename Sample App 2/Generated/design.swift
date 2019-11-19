@@ -97,7 +97,7 @@ final class MyTextStyle: MyTextStyleProtocol {
 
     var h1_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -108,7 +108,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_primary_01_500: TextStyle {
       return TextStyle(color: colors.primary_01(tint: 500),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -240,7 +240,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h1_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -251,7 +251,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_basic_600: TextStyle {
       return TextStyle(color: colors.basic(tint: 600),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -383,7 +383,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h1_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 26, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -394,7 +394,7 @@ final class MyTextStyle: MyTextStyleProtocol {
       
     var h2_headline_basic_100: TextStyle {
       return TextStyle(color: colors.basic(tint: 100),
-                       fontFamily: "Helvetica-Light", 
+                       fontFamily: "Helvetica-Bold", 
                        fontSize: 24, 
                        shouldApplyWeight: false, 
                        fontWeight: 1100, 
@@ -942,6 +942,6 @@ final class MyTextStyle: MyTextStyleProtocol {
                        textTransform: "none")
       }
       
-	  var fonts: [String] { return ["Helvetica-Light", "Helvetica-Bold"] }
+	  var fonts: [String] { return ["Helvetica-Bold", "Helvetica-Light"] }
 
 }
